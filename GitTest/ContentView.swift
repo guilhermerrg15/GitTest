@@ -12,7 +12,7 @@ struct ContentView: View {
         VStack{
         Text("Goodbye, world :0")
             .padding()
-        Text("Branch Main")
+        Text("Branch Profile")
     }
     }
 }
